@@ -5,7 +5,7 @@
 ### THIS IS ABHISHEK KUMAR
 
 
-Currently working in Infosys as a Front-end developer.
+Currently working in Infosys as a SpringBoot Backend Developer.
 I have completed B.tech in Information Technology from MUZAFFARPUR INSTITUTE OF TECHNOLOGY.
 
 - 📫 Reach me:abhishekkumar801104@gmail.com
