@@ -11,16 +11,16 @@ I have completed B.tech in Information Technology from MUZAFFARPUR INSTITUTE OF 
 - 📫 Reach me:abhishekkumar801104@gmail.com
 
 
-- An IT Professional, looking for Opportunities to enhance the skills in software engineering .
-- Python is something I love. Django is what I use to build. JS,HTML and CSS are obviously my buddy.
-  
+- An IT Professional, Working as a Full-stack Developer, Looking for the Opportunities to enhance the skills in software engineering .
+- Python is something I love.
+- Springboot Backend Developer (worked on multiple backend projects)
 - Programming: Python, java, c++, Javascript
--Database skill - MySql, PostgreSql
+- Database skill - MySql, PostgreSql
 - Libraries: Bootstrap4, NumPy, Matplotlib, pandas
-- Platforms: visual studio, Atom, VS, jupyter NB 
+- Platforms: visual studio, Intellij,. Atom, VS, jupyter NB 
 -version control: Git, GitHub
  
--  3⭐ on Leetcod, solve more that 350+ Problems.
+-  3⭐ on Leetcode, solve more that 400+ Problems.
 - 5⭐ on Hackerrank for Python Programming and c++ programing.
  
  
