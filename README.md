@@ -11,11 +11,13 @@
 - Full-stack Developer (worked on multiple backend projects)
 - Backend: FastAPI, Django, Springboot
 - FrontEnd: Angular, React (HTML,CSS,JavaScript,TypeScript)
-- Programming: Python, java, c++, Javascript
+- Continer_Engine: Docker
+- Cloud: AWS(Basic understanig)
+- Programming: Python, java, c++ 
 - Database skill - Sqlite, MySql, PostgreSql
 - Libraries: Bootstrap5
 - Platforms: visual studio, Intellij,. Atom,  jupyter NB 
--version control: Git, GitHub
+- version control: Git, GitHub
  
 -  3⭐ on Leetcode, solve more that 400+ Problems.
 - 5⭐ on Hackerrank for Python Programming and c++ programing.
