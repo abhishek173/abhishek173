@@ -4,20 +4,17 @@
 ### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### THIS IS ABHISHEK KUMAR
 
-
-Currently working in Infosys as a SpringBoot Backend Developer.
-I have completed B.tech in Information Technology from MUZAFFARPUR INSTITUTE OF TECHNOLOGY.
-
 - 📫 Reach me:abhishekkumar801104@gmail.com
 
-
-- An IT Professional, Working as a Full-stack Developer, Looking for the Opportunities to enhance the skills in software engineering .
+   An IT Professional, Working as a Full-stack Developer, Looking for the Opportunities to enhance the skills in software engineering .
 - Python is something I love.
-- Springboot Backend Developer (worked on multiple backend projects)
+- Full-stack Developer (worked on multiple backend projects)
+- Backend: FastAPI, Django, Springboot
+- FrontEnd: Angular, React (HTML,CSS,JavaScript,TypeScript)
 - Programming: Python, java, c++, Javascript
-- Database skill - MySql, PostgreSql
-- Libraries: Bootstrap4, NumPy, Matplotlib, pandas
-- Platforms: visual studio, Intellij,. Atom, VS, jupyter NB 
+- Database skill - Sqlite, MySql, PostgreSql
+- Libraries: Bootstrap5
+- Platforms: visual studio, Intellij,. Atom,  jupyter NB 
 -version control: Git, GitHub
  
 -  3⭐ on Leetcode, solve more that 400+ Problems.
