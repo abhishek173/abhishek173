@@ -9,7 +9,7 @@
    An IT Professional, Working as a Full-stack Developer, Looking for the Opportunities to enhance the skills in software engineering .
 - Python is something I love.
 - Full-stack Developer (worked on multiple Full-stack projects)
-- Backend: FastAPI, Django, Springboot
+- Backend: Django, FastAPI, 
 - FrontEnd: Angular, React (HTML,CSS,JavaScript,TypeScript)
 - Continer_Engine: Docker
 - Cloud: AWS(Basic understanig)
