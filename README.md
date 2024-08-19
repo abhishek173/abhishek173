@@ -10,12 +10,11 @@
 - Python is something I love.
 - Full-stack Developer (worked on multiple Full-stack projects)
 - Backend: Django, FastAPI, 
-- FrontEnd: Angular, React (HTML,CSS,JavaScript,TypeScript)
+- FrontEnd: Bootstrap5, Angular, React (HTML,CSS,JavaScript,TypeScript)
 - Continer_Engine: Docker
 - Cloud: AWS(Basic understanig)
 - Programming: Python, java, c++ 
 - Database skill - Sqlite, MySql, PostgreSql
-- Libraries: Bootstrap5
 - Platforms: visual studio, Intellij,. Atom,  jupyter NB 
 - version control: Git, GitHub
  
