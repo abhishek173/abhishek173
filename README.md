@@ -18,7 +18,7 @@
 - Platforms: visual studio, Intellij,. Atom,  jupyter NB 
 - version control: Git, GitHub
  
--  3⭐ on Leetcode, solve more that 400+ Problems.
+-  3⭐ on Leetcode, solve more that 400+ Problems. https://leetcode.com/u/Abhishek_kumar18IT01/
 - 5⭐ on Hackerrank for Python Programming and c++ programing.
  
  
