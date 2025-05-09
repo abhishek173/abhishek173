@@ -29,10 +29,6 @@ Full-stack travel web app with custom APIs for cities, fares, and booking logic,
 ### 🔹 Task Manager App
 Dockerized task management system deployed on AWS, supports user authentication and task CRUD functionality.
 
-## 📈 GitHub Stats
-
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderabhishek18&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderabhishek18&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
 
