@@ -5,7 +5,7 @@
 
 ## 💼 About Me
 
-Hello! I'm **Abhishek Kumar**, a passionate and skilled Backend Developer with over 2 years of professional experience. I specialize in **Django**, **Django REST Framework**, and have hands-on experience with **DevOps** practices and tools such as **Docker**, **Jenkins**, **AWS**, and **Kubernetes**. I enjoy building scalable web applications and APIs, solving problems on LeetCode, and continuously learning new technologies.
+Hello! I'm **Abhishek Kumar**, a passionate and skilled Backend Developer with over 3+ years of professional experience. I specialize in **Django**, **Django REST Framework**,  **FastAPI** and have hands-on experience with **DevOps** practices and tools such as **Docker**, **Jenkins**, **AWS**, and **Kubernetes**. I enjoy building scalable web applications and APIs, solving problems on LeetCode, and continuously learning new technologies.
 
 ## 🛠️ Tech Stack
 
