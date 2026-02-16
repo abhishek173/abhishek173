@@ -3,17 +3,27 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/coderabhishek/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Abhishek_kumar18IT01/)
 
-## 💼 About Me
+💼 About Me
 
-Hello! I'm **Abhishek Kumar**, a passionate and skilled Backend Developer with over 3+ years of professional experience. I specialize in **Django**, **Django REST Framework**,  **FastAPI** and have hands-on experience with **DevOps** practices and tools such as **Docker**, **Jenkins**, **AWS**, and **Kubernetes**. I enjoy building scalable web applications and APIs, solving problems on LeetCode, and continuously learning new technologies.
+Hello! I'm Abhishek Kumar, a passionate and skilled Python Backend Developer with over 3+ years of professional experience in building scalable and high-performance backend systems. I specialize in Django, Django REST Framework, and FastAPI, with strong expertise in designing secure RESTful APIs and microservices architectures.
 
-## 🛠️ Tech Stack
+I also work extensively on AI-powered automation systems, building intelligent agents using OpenAI API, LangChain, LangGraph, and Retrieval-Augmented Generation (RAG) architectures to automate workflows and improve productivity.
 
-- **Languages**: Python, JavaScript, SQL, HTML, CSS
-- **Frameworks**: Django, Django REST Framework, React (beginner)
-- **DevOps & Tools**: Docker, Jenkins, AWS (EC2, S3, RDS), Kubernetes, Git, GitHub, Nginx
-- **Database**: PostgreSQL, MySQL, SQLite
-- **Other**: Redis, WebSocket, RESTful APIs, JWT Authentication
+I enjoy building clean, production-ready backend systems, optimizing performance using asynchronous processing with Celery and Redis, solving problems on LeetCode, and continuously learning emerging technologies in AI and backend engineering.
+
+🛠️ Tech Stack
+
+Languages: Python, JavaScript, SQL, HTML, CSS
+
+Frameworks: Django, Django REST Framework (DRF), FastAPI
+
+AI & LLM Technologies: OpenAI API, LangChain, LangGraph, Retrieval-Augmented Generation (RAG)
+
+Database: PostgreSQL, MySQL
+
+Async & Messaging: Celery, Redis
+
+Other: RESTful APIs, OAuth2, JWT Authentication, Microservices Architecture
 
 ## 🚀 Projects
 
